@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 29e7288d6a43f69409712784f2fcb494
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveJoystick: {instanceID: 0}
+  - proj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
